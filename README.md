@@ -1,3 +1,3 @@
-# pab_widget
+# Tugas 1 - Pemrograman Aplikasi Bergerak I
 
-A new Flutter project.
+Project Flutter: Membuat Aplikasi Widget Demo
